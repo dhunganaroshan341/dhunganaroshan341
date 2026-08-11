@@ -1,89 +1,62 @@
-# Roshan Dhungana
+# Hi, I'm Roshan Dhungana 
 
-Backend Laravel Developer | Full-Stack in progress (Vue, React)
+Laravel backend developer from Nepal. I enjoy building admin systems, APIs, and database-driven applications with a focus on clean structure and maintainable code.
 
----
+Most of my work has been around Laravel-based business applications, role-based dashboards, CMS-style systems, and internal tools. Some projects are commercial and cannot be shared publicly, so I usually keep the descriptions general.
 
-## Summary
-
-I build backend systems using Laravel with a focus on clean architecture, maintainability, and scalable CMS-style applications. My work mainly revolves around admin systems, role-based access control, and data-heavy CRUD platforms.
-
-Currently expanding into modern frontend frameworks (Vue.js, React) to become a more complete full-stack developer.
+At the moment I’m learning **Vue.js and React** to become a stronger full-stack developer, while continuing to improve my backend architecture and deployment skills.
 
 ---
 
-## Core Expertise
+## What I Work With
 
-- Laravel application development (service/repository-based structure)
-- CMS and admin panel systems
-- Role & permission systems (Spatie Laravel Permission)
-- RESTful backend design
-- Database-driven applications (MySQL)
-- AJAX-driven UI interactions using jQuery
-
----
-
-## Frontend Exposure
-
-- JavaScript (practical use in backend apps)
-- jQuery (AJAX, DOM manipulation)
-- HTML, CSS, Bootstrap
+* Laravel
+* PHP
+* MySQL
+* REST APIs
+* Spatie Laravel Permission
+* jQuery / AJAX
+* HTML, CSS, Bootstrap
 
 ---
 
-## Currently Learning
+## What I Usually Build
 
-- Vue.js
-- React
-- System design fundamentals for scalable backend applications
-
----
-
-## What I Build
-
-- CMS platforms (travel, content, admin systems)
-- Role-based dashboards
-- CRUD-heavy enterprise-style applications
-- File and media management systems
-- Backend APIs and structured business logic layers
+* Admin panels
+* CMS platforms
+* Role & permission systems
+* CRUD-heavy business applications
+* Backend APIs
+* File and media management modules
 
 ---
 
-## Technical Focus
+## Current Focus
 
-- Clean controller/service separation
-- Reusable business logic
-- Optimized database queries
-- Modular Laravel architecture
-- Secure authentication and authorization flows
-
----
-
-## Projects
-
-### CMS / Admin Systems
-Role-based backend systems with dynamic modules, permissions, and data management features.
-
-### Dashboard Applications
-Admin panels with structured CRUD flows, validation layers, and clean UI integration.
-
-### Custom Modules
-Reusable Laravel modules for file handling, media, and business logic separation.
+* Laravel architecture
+* API development
+* Query optimization
+* Modular application structure
+* Vue.js
+* React
+* Basic system design and deployment practices
 
 ---
 
-## Goals
+## Open Source
 
-- Strengthen full-stack capability (Laravel + Vue/React)
-- Improve system design thinking
-- Build production-grade scalable applications
-- Master backend performance optimization
-- Work on real-world distributed system patterns
+I’m interested in building reusable Laravel packages and small developer tools that can be shared through Composer. I enjoy learning how frameworks are structured internally and how reusable components are designed.
 
 ---
 
-## Links
+## Goal
 
-Website: https://roshandhungana.com.np  
-LinkedIn: https://www.linkedin.com/in/dhunganaroshan341/  
-Email: dhunganaroshan341@gmail.com  
+My long-term goal is to become a developer who can build and deploy scalable backend applications confidently, while also having practical full-stack capabilities.
+
+---
+
+## Connect
+
+* 🌐 Website: https://roshandhungana.com.np
+* 💼 LinkedIn: https://www.linkedin.com/in/dhunganaroshan341/
+* 📧 Email: [dhunganaroshan341@gmail.com](mailto:dhunganaroshan341@gmail.com)
